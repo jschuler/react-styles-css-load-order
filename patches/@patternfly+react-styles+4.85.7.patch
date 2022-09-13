@@ -1,0 +1,1787 @@
+diff --git a/node_modules/@patternfly/react-styles/css/components/AboutModalBox/about-modal-box.mjs b/node_modules/@patternfly/react-styles/css/components/AboutModalBox/about-modal-box.mjs
+index 69211ed..a8124d9 100644
+--- a/node_modules/@patternfly/react-styles/css/components/AboutModalBox/about-modal-box.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/AboutModalBox/about-modal-box.mjs
+@@ -1,4 +1,4 @@
+-import('./about-modal-box.css');
++import './about-modal-box.css';
+ export default {
+   "aboutModalBox": "pf-c-about-modal-box",
+   "aboutModalBoxBrand": "pf-c-about-modal-box__brand",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Accordion/accordion.mjs b/node_modules/@patternfly/react-styles/css/components/Accordion/accordion.mjs
+index 950eb4e..8f31c28 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Accordion/accordion.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Accordion/accordion.mjs
+@@ -1,4 +1,4 @@
+-import('./accordion.css');
++import './accordion.css';
+ export default {
+   "accordion": "pf-c-accordion",
+   "accordionExpandedContent": "pf-c-accordion__expanded-content",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ActionList/action-list.mjs b/node_modules/@patternfly/react-styles/css/components/ActionList/action-list.mjs
+index 3860c84..087eb76 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ActionList/action-list.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ActionList/action-list.mjs
+@@ -1,4 +1,4 @@
+-import('./action-list.css');
++import './action-list.css';
+ export default {
+   "actionList": "pf-c-action-list",
+   "actionListGroup": "pf-c-action-list__group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Alert/alert.mjs b/node_modules/@patternfly/react-styles/css/components/Alert/alert.mjs
+index ccb7b51..0602aec 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Alert/alert.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Alert/alert.mjs
+@@ -1,4 +1,4 @@
+-import('./alert.css');
++import './alert.css';
+ export default {
+   "alert": "pf-c-alert",
+   "alertAction": "pf-c-alert__action",
+diff --git a/node_modules/@patternfly/react-styles/css/components/AlertGroup/alert-group.mjs b/node_modules/@patternfly/react-styles/css/components/AlertGroup/alert-group.mjs
+index f4f2ec3..5fa83cc 100644
+--- a/node_modules/@patternfly/react-styles/css/components/AlertGroup/alert-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/AlertGroup/alert-group.mjs
+@@ -1,4 +1,4 @@
+-import('./alert-group.css');
++import './alert-group.css';
+ export default {
+   "alertGroup": "pf-c-alert-group",
+   "alertGroupOverflowButton": "pf-c-alert-group__overflow-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/AppLauncher/app-launcher.mjs b/node_modules/@patternfly/react-styles/css/components/AppLauncher/app-launcher.mjs
+index b892670..fab9190 100644
+--- a/node_modules/@patternfly/react-styles/css/components/AppLauncher/app-launcher.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/AppLauncher/app-launcher.mjs
+@@ -1,4 +1,4 @@
+-import('./app-launcher.css');
++import './app-launcher.css';
+ export default {
+   "appLauncher": "pf-c-app-launcher",
+   "appLauncherGroup": "pf-c-app-launcher__group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Avatar/avatar.mjs b/node_modules/@patternfly/react-styles/css/components/Avatar/avatar.mjs
+index 1b76b77..17cbd19 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Avatar/avatar.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Avatar/avatar.mjs
+@@ -1,4 +1,4 @@
+-import('./avatar.css');
++import './avatar.css';
+ export default {
+   "avatar": "pf-c-avatar",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/BackToTop/back-to-top.mjs b/node_modules/@patternfly/react-styles/css/components/BackToTop/back-to-top.mjs
+index 270b064..af15247 100644
+--- a/node_modules/@patternfly/react-styles/css/components/BackToTop/back-to-top.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/BackToTop/back-to-top.mjs
+@@ -1,4 +1,4 @@
+-import('./back-to-top.css');
++import './back-to-top.css';
+ export default {
+   "backToTop": "pf-c-back-to-top",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Backdrop/backdrop.mjs b/node_modules/@patternfly/react-styles/css/components/Backdrop/backdrop.mjs
+index 4949e20..69ce527 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Backdrop/backdrop.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Backdrop/backdrop.mjs
+@@ -1,4 +1,4 @@
+-import('./backdrop.css');
++import './backdrop.css';
+ export default {
+   "backdrop": "pf-c-backdrop",
+   "backdropOpen": "pf-c-backdrop__open"
+diff --git a/node_modules/@patternfly/react-styles/css/components/BackgroundImage/background-image.mjs b/node_modules/@patternfly/react-styles/css/components/BackgroundImage/background-image.mjs
+index 2942e8f..9794aa5 100644
+--- a/node_modules/@patternfly/react-styles/css/components/BackgroundImage/background-image.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/BackgroundImage/background-image.mjs
+@@ -1,4 +1,4 @@
+-import('./background-image.css');
++import './background-image.css';
+ export default {
+   "backgroundImage": "pf-c-background-image",
+   "backgroundImageFilter": "pf-c-background-image__filter"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Badge/badge.mjs b/node_modules/@patternfly/react-styles/css/components/Badge/badge.mjs
+index 9fedb54..4e97551 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Badge/badge.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Badge/badge.mjs
+@@ -1,4 +1,4 @@
+-import('./badge.css');
++import './badge.css';
+ export default {
+   "badge": "pf-c-badge",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Banner/banner.mjs b/node_modules/@patternfly/react-styles/css/components/Banner/banner.mjs
+index 8e7ead5..59872a8 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Banner/banner.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Banner/banner.mjs
+@@ -1,4 +1,4 @@
+-import('./banner.css');
++import './banner.css';
+ export default {
+   "banner": "pf-c-banner",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Brand/brand.mjs b/node_modules/@patternfly/react-styles/css/components/Brand/brand.mjs
+index 784c5cf..7385945 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Brand/brand.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Brand/brand.mjs
+@@ -1,4 +1,4 @@
+-import('./brand.css');
++import './brand.css';
+ export default {
+   "brand": "pf-c-brand",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Breadcrumb/breadcrumb.mjs b/node_modules/@patternfly/react-styles/css/components/Breadcrumb/breadcrumb.mjs
+index bef51e2..a61fe2f 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Breadcrumb/breadcrumb.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Breadcrumb/breadcrumb.mjs
+@@ -1,4 +1,4 @@
+-import('./breadcrumb.css');
++import './breadcrumb.css';
+ export default {
+   "breadcrumb": "pf-c-breadcrumb",
+   "breadcrumbDropdown": "pf-c-breadcrumb__dropdown",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Button/button.mjs b/node_modules/@patternfly/react-styles/css/components/Button/button.mjs
+index 28fec17..692343f 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Button/button.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Button/button.mjs
+@@ -1,4 +1,4 @@
+-import('./button.css');
++import './button.css';
+ export default {
+   "badge": "pf-c-badge",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/CalendarMonth/calendar-month.mjs b/node_modules/@patternfly/react-styles/css/components/CalendarMonth/calendar-month.mjs
+index 5a37e5f..a757cb4 100644
+--- a/node_modules/@patternfly/react-styles/css/components/CalendarMonth/calendar-month.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/CalendarMonth/calendar-month.mjs
+@@ -1,4 +1,4 @@
+-import('./calendar-month.css');
++import './calendar-month.css';
+ export default {
+   "calendarMonth": "pf-c-calendar-month",
+   "calendarMonthCalendar": "pf-c-calendar-month__calendar",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Card/card.mjs b/node_modules/@patternfly/react-styles/css/components/Card/card.mjs
+index d24a185..ead33c6 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Card/card.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Card/card.mjs
+@@ -1,4 +1,4 @@
+-import('./card.css');
++import './card.css';
+ export default {
+   "card": "pf-c-card",
+   "cardActions": "pf-c-card__actions",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Check/check.mjs b/node_modules/@patternfly/react-styles/css/components/Check/check.mjs
+index 762a540..0ccc8b9 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Check/check.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Check/check.mjs
+@@ -1,4 +1,4 @@
+-import('./check.css');
++import './check.css';
+ export default {
+   "check": "pf-c-check",
+   "checkBody": "pf-c-check__body",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Chip/chip.mjs b/node_modules/@patternfly/react-styles/css/components/Chip/chip.mjs
+index e3d93a9..c3e1369 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Chip/chip.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Chip/chip.mjs
+@@ -1,4 +1,4 @@
+-import('./chip.css');
++import './chip.css';
+ export default {
+   "badge": "pf-c-badge",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ChipGroup/chip-group.mjs b/node_modules/@patternfly/react-styles/css/components/ChipGroup/chip-group.mjs
+index de8ac77..debf9b9 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ChipGroup/chip-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ChipGroup/chip-group.mjs
+@@ -1,4 +1,4 @@
+-import('./chip-group.css');
++import './chip-group.css';
+ export default {
+   "chipGroup": "pf-c-chip-group",
+   "chipGroupClose": "pf-c-chip-group__close",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ClipboardCopy/clipboard-copy.mjs b/node_modules/@patternfly/react-styles/css/components/ClipboardCopy/clipboard-copy.mjs
+index 230f722..473fb6f 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ClipboardCopy/clipboard-copy.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ClipboardCopy/clipboard-copy.mjs
+@@ -1,4 +1,4 @@
+-import('./clipboard-copy.css');
++import './clipboard-copy.css';
+ export default {
+   "button": "pf-c-button",
+   "clipboardCopy": "pf-c-clipboard-copy",
+diff --git a/node_modules/@patternfly/react-styles/css/components/CodeBlock/code-block.mjs b/node_modules/@patternfly/react-styles/css/components/CodeBlock/code-block.mjs
+index b9824d0..eac345e 100644
+--- a/node_modules/@patternfly/react-styles/css/components/CodeBlock/code-block.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/CodeBlock/code-block.mjs
+@@ -1,4 +1,4 @@
+-import('./code-block.css');
++import './code-block.css';
+ export default {
+   "codeBlock": "pf-c-code-block",
+   "codeBlockActions": "pf-c-code-block__actions",
+diff --git a/node_modules/@patternfly/react-styles/css/components/CodeEditor/code-editor.mjs b/node_modules/@patternfly/react-styles/css/components/CodeEditor/code-editor.mjs
+index 279e948..a550780 100644
+--- a/node_modules/@patternfly/react-styles/css/components/CodeEditor/code-editor.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/CodeEditor/code-editor.mjs
+@@ -1,4 +1,4 @@
+-import('./code-editor.css');
++import './code-editor.css';
+ export default {
+   "button": "pf-c-button",
+   "codeEditor": "pf-c-code-editor",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Consoles/AccessConsoles.mjs b/node_modules/@patternfly/react-styles/css/components/Consoles/AccessConsoles.mjs
+index 4279466..9cc302a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Consoles/AccessConsoles.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Consoles/AccessConsoles.mjs
+@@ -1,4 +1,4 @@
+-import('./AccessConsoles.css');
++import './AccessConsoles.css';
+ export default {
+   "console": "pf-c-console",
+   "consoleActions": "pf-c-console__actions"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Consoles/DesktopViewer.mjs b/node_modules/@patternfly/react-styles/css/components/Consoles/DesktopViewer.mjs
+index 86401f4..17e9639 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Consoles/DesktopViewer.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Consoles/DesktopViewer.mjs
+@@ -1,4 +1,4 @@
+-import('./DesktopViewer.css');
++import './DesktopViewer.css';
+ export default {
+   "consoleDesktopViewer": "pf-c-console__desktop-viewer"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/components/Consoles/SerialConsole.mjs b/node_modules/@patternfly/react-styles/css/components/Consoles/SerialConsole.mjs
+index 1788c33..164a74b 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Consoles/SerialConsole.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Consoles/SerialConsole.mjs
+@@ -1,4 +1,4 @@
+-import('./SerialConsole.css');
++import './SerialConsole.css';
+ export default {
+   "consoleActionsSerial": "pf-c-console__actions-serial",
+   "consoleSerial": "pf-c-console__serial"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Consoles/VncConsole.mjs b/node_modules/@patternfly/react-styles/css/components/Consoles/VncConsole.mjs
+index 1fb384d..cbe380b 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Consoles/VncConsole.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Consoles/VncConsole.mjs
+@@ -1,4 +1,4 @@
+-import('./VncConsole.css');
++import './VncConsole.css';
+ export default {
+   "consoleActionsVnc": "pf-c-console__actions-vnc",
+   "consoleVnc": "pf-c-console__vnc"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Consoles/xterm.mjs b/node_modules/@patternfly/react-styles/css/components/Consoles/xterm.mjs
+index f892e01..fa94f47 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Consoles/xterm.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Consoles/xterm.mjs
+@@ -1,4 +1,4 @@
+-import('./xterm.css');
++import './xterm.css';
+ export default {
+   "": "",
+   "active": "active",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Content/content.mjs b/node_modules/@patternfly/react-styles/css/components/Content/content.mjs
+index f184cda..d2e38d3 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Content/content.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Content/content.mjs
+@@ -1,4 +1,4 @@
+-import('./content.css');
++import './content.css';
+ export default {
+   "content": "pf-c-content",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/ContextSelector/context-selector.mjs b/node_modules/@patternfly/react-styles/css/components/ContextSelector/context-selector.mjs
+index d07b9b7..0e4dc02 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ContextSelector/context-selector.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ContextSelector/context-selector.mjs
+@@ -1,4 +1,4 @@
+-import('./context-selector.css');
++import './context-selector.css';
+ export default {
+   "contextSelector": "pf-c-context-selector",
+   "contextSelectorMenu": "pf-c-context-selector__menu",
+diff --git a/node_modules/@patternfly/react-styles/css/components/DataList/data-list-grid.mjs b/node_modules/@patternfly/react-styles/css/components/DataList/data-list-grid.mjs
+index d0556fb..e384b9d 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DataList/data-list-grid.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DataList/data-list-grid.mjs
+@@ -1,4 +1,4 @@
+-import('./data-list-grid.css');
++import './data-list-grid.css';
+ export default {
+   "dataList": "pf-c-data-list",
+   "dataListCell": "pf-c-data-list__cell",
+diff --git a/node_modules/@patternfly/react-styles/css/components/DataList/data-list.mjs b/node_modules/@patternfly/react-styles/css/components/DataList/data-list.mjs
+index 2783edb..549eed6 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DataList/data-list.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DataList/data-list.mjs
+@@ -1,4 +1,4 @@
+-import('./data-list.css');
++import './data-list.css';
+ export default {
+   "dataList": "pf-c-data-list",
+   "dataListAction": "pf-c-data-list__action",
+diff --git a/node_modules/@patternfly/react-styles/css/components/DatePicker/date-picker.mjs b/node_modules/@patternfly/react-styles/css/components/DatePicker/date-picker.mjs
+index 19c8007..05b0bd1 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DatePicker/date-picker.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DatePicker/date-picker.mjs
+@@ -1,4 +1,4 @@
+-import('./date-picker.css');
++import './date-picker.css';
+ export default {
+   "datePicker": "pf-c-date-picker",
+   "datePickerCalendar": "pf-c-date-picker__calendar",
+diff --git a/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list-order.mjs b/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list-order.mjs
+index 722c561..c8e0b19 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list-order.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list-order.mjs
+@@ -1,4 +1,4 @@
+-import('./description-list-order.css');
++import './description-list-order.css';
+ export default {
+   "descriptionListGroup": "pf-c-description-list__group",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list.mjs b/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list.mjs
+index 32614c9..a6bc640 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DescriptionList/description-list.mjs
+@@ -1,4 +1,4 @@
+-import('./description-list.css');
++import './description-list.css';
+ export default {
+   "card": "pf-c-card",
+   "descriptionList": "pf-c-description-list",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Divider/divider.mjs b/node_modules/@patternfly/react-styles/css/components/Divider/divider.mjs
+index 259ce49..b8b8b71 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Divider/divider.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Divider/divider.mjs
+@@ -1,4 +1,4 @@
+-import('./divider.css');
++import './divider.css';
+ export default {
+   "divider": "pf-c-divider",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/DragDrop/drag-drop.mjs b/node_modules/@patternfly/react-styles/css/components/DragDrop/drag-drop.mjs
+index a9005f5..57f1223 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DragDrop/drag-drop.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DragDrop/drag-drop.mjs
+@@ -1,4 +1,4 @@
+-import('./drag-drop.css');
++import './drag-drop.css';
+ export default {
+   "draggable": "pf-c-draggable",
+   "droppable": "pf-c-droppable",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Drawer/drawer.mjs b/node_modules/@patternfly/react-styles/css/components/Drawer/drawer.mjs
+index 1e8614a..37d47e9 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Drawer/drawer.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Drawer/drawer.mjs
+@@ -1,4 +1,4 @@
+-import('./drawer.css');
++import './drawer.css';
+ export default {
+   "drawer": "pf-c-drawer",
+   "drawerActions": "pf-c-drawer__actions",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Dropdown/dropdown.mjs b/node_modules/@patternfly/react-styles/css/components/Dropdown/dropdown.mjs
+index 3362d3e..ec5a5f6 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Dropdown/dropdown.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Dropdown/dropdown.mjs
+@@ -1,4 +1,4 @@
+-import('./dropdown.css');
++import './dropdown.css';
+ export default {
+   "badge": "pf-c-badge",
+   "check": "pf-c-check",
+diff --git a/node_modules/@patternfly/react-styles/css/components/DualListSelector/dual-list-selector.mjs b/node_modules/@patternfly/react-styles/css/components/DualListSelector/dual-list-selector.mjs
+index a082c28..c746340 100644
+--- a/node_modules/@patternfly/react-styles/css/components/DualListSelector/dual-list-selector.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/DualListSelector/dual-list-selector.mjs
+@@ -1,4 +1,4 @@
+-import('./dual-list-selector.css');
++import './dual-list-selector.css';
+ export default {
+   "badge": "pf-c-badge",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/EmptyState/empty-state.mjs b/node_modules/@patternfly/react-styles/css/components/EmptyState/empty-state.mjs
+index c99eefd..8ff7f8a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/EmptyState/empty-state.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/EmptyState/empty-state.mjs
+@@ -1,4 +1,4 @@
+-import('./empty-state.css');
++import './empty-state.css';
+ export default {
+   "button": "pf-c-button",
+   "emptyState": "pf-c-empty-state",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ExpandableSection/expandable-section.mjs b/node_modules/@patternfly/react-styles/css/components/ExpandableSection/expandable-section.mjs
+index c201c6c..9f3fe26 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ExpandableSection/expandable-section.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ExpandableSection/expandable-section.mjs
+@@ -1,4 +1,4 @@
+-import('./expandable-section.css');
++import './expandable-section.css';
+ export default {
+   "expandableSection": "pf-c-expandable-section",
+   "expandableSectionContent": "pf-c-expandable-section__content",
+diff --git a/node_modules/@patternfly/react-styles/css/components/FileUpload/file-upload.mjs b/node_modules/@patternfly/react-styles/css/components/FileUpload/file-upload.mjs
+index b7067a0..b0a6748 100644
+--- a/node_modules/@patternfly/react-styles/css/components/FileUpload/file-upload.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/FileUpload/file-upload.mjs
+@@ -1,4 +1,4 @@
+-import('./file-upload.css');
++import './file-upload.css';
+ export default {
+   "button": "pf-c-button",
+   "fileUpload": "pf-c-file-upload",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Form/form.mjs b/node_modules/@patternfly/react-styles/css/components/Form/form.mjs
+index fad93a1..79f4043 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Form/form.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Form/form.mjs
+@@ -1,4 +1,4 @@
+-import('./form.css');
++import './form.css';
+ export default {
+   "form": "pf-c-form",
+   "formActions": "pf-c-form__actions",
+diff --git a/node_modules/@patternfly/react-styles/css/components/FormControl/form-control.mjs b/node_modules/@patternfly/react-styles/css/components/FormControl/form-control.mjs
+index 37db3b3..022ae95 100644
+--- a/node_modules/@patternfly/react-styles/css/components/FormControl/form-control.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/FormControl/form-control.mjs
+@@ -1,4 +1,4 @@
+-import('./form-control.css');
++import './form-control.css';
+ export default {
+   "formControl": "pf-c-form-control",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/HelperText/helper-text.mjs b/node_modules/@patternfly/react-styles/css/components/HelperText/helper-text.mjs
+index 5c68287..b7191e8 100644
+--- a/node_modules/@patternfly/react-styles/css/components/HelperText/helper-text.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/HelperText/helper-text.mjs
+@@ -1,4 +1,4 @@
+-import('./helper-text.css');
++import './helper-text.css';
+ export default {
+   "helperText": "pf-c-helper-text",
+   "helperTextItem": "pf-c-helper-text__item",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Hint/hint.mjs b/node_modules/@patternfly/react-styles/css/components/Hint/hint.mjs
+index 66c5d08..796e18a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Hint/hint.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Hint/hint.mjs
+@@ -1,4 +1,4 @@
+-import('./hint.css');
++import './hint.css';
+ export default {
+   "button": "pf-c-button",
+   "dropdown": "pf-c-dropdown",
+diff --git a/node_modules/@patternfly/react-styles/css/components/InlineEdit/inline-edit.mjs b/node_modules/@patternfly/react-styles/css/components/InlineEdit/inline-edit.mjs
+index 55b50bd..17d80f7 100644
+--- a/node_modules/@patternfly/react-styles/css/components/InlineEdit/inline-edit.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/InlineEdit/inline-edit.mjs
+@@ -1,4 +1,4 @@
+-import('./inline-edit.css');
++import './inline-edit.css';
+ export default {
+   "button": "pf-c-button",
+   "inlineEdit": "pf-c-inline-edit",
+diff --git a/node_modules/@patternfly/react-styles/css/components/InputGroup/input-group.mjs b/node_modules/@patternfly/react-styles/css/components/InputGroup/input-group.mjs
+index 621bdb0..010acff 100644
+--- a/node_modules/@patternfly/react-styles/css/components/InputGroup/input-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/InputGroup/input-group.mjs
+@@ -1,4 +1,4 @@
+-import('./input-group.css');
++import './input-group.css';
+ export default {
+   "formControl": "pf-c-form-control",
+   "inputGroup": "pf-c-input-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/JumpLinks/jump-links.mjs b/node_modules/@patternfly/react-styles/css/components/JumpLinks/jump-links.mjs
+index 5bda03a..c6177ac 100644
+--- a/node_modules/@patternfly/react-styles/css/components/JumpLinks/jump-links.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/JumpLinks/jump-links.mjs
+@@ -1,4 +1,4 @@
+-import('./jump-links.css');
++import './jump-links.css';
+ export default {
+   "button": "pf-c-button",
+   "jumpLinks": "pf-c-jump-links",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Label/label.mjs b/node_modules/@patternfly/react-styles/css/components/Label/label.mjs
+index d72bdc4..6b86b92 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Label/label.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Label/label.mjs
+@@ -1,4 +1,4 @@
+-import('./label.css');
++import './label.css';
+ export default {
+   "button": "pf-c-button",
+   "label": "pf-c-label",
+diff --git a/node_modules/@patternfly/react-styles/css/components/LabelGroup/label-group.mjs b/node_modules/@patternfly/react-styles/css/components/LabelGroup/label-group.mjs
+index 2ed230c..5ac3863 100644
+--- a/node_modules/@patternfly/react-styles/css/components/LabelGroup/label-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/LabelGroup/label-group.mjs
+@@ -1,4 +1,4 @@
+-import('./label-group.css');
++import './label-group.css';
+ export default {
+   "button": "pf-c-button",
+   "labelGroup": "pf-c-label-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/List/list.mjs b/node_modules/@patternfly/react-styles/css/components/List/list.mjs
+index 12c44f6..2552f36 100644
+--- a/node_modules/@patternfly/react-styles/css/components/List/list.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/List/list.mjs
+@@ -1,4 +1,4 @@
+-import('./list.css');
++import './list.css';
+ export default {
+   "list": "pf-c-list",
+   "listItem": "pf-c-list__item",
+diff --git a/node_modules/@patternfly/react-styles/css/components/LogViewer/log-viewer.mjs b/node_modules/@patternfly/react-styles/css/components/LogViewer/log-viewer.mjs
+index a97be97..5ecd5b0 100644
+--- a/node_modules/@patternfly/react-styles/css/components/LogViewer/log-viewer.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/LogViewer/log-viewer.mjs
+@@ -1,4 +1,4 @@
+-import('./log-viewer.css');
++import './log-viewer.css';
+ export default {
+   "button": "pf-c-button",
+   "card": "pf-c-card",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Login/login.mjs b/node_modules/@patternfly/react-styles/css/components/Login/login.mjs
+index 17d90d4..61caff4 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Login/login.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Login/login.mjs
+@@ -1,4 +1,4 @@
+-import('./login.css');
++import './login.css';
+ export default {
+   "brand": "pf-c-brand",
+   "button": "pf-c-button",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Masthead/masthead.mjs b/node_modules/@patternfly/react-styles/css/components/Masthead/masthead.mjs
+index d82011a..9f5bd70 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Masthead/masthead.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Masthead/masthead.mjs
+@@ -1,4 +1,4 @@
+-import('./masthead.css');
++import './masthead.css';
+ export default {
+   "button": "pf-c-button",
+   "card": "pf-c-card",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Menu/menu.mjs b/node_modules/@patternfly/react-styles/css/components/Menu/menu.mjs
+index 061b831..cda679a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Menu/menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Menu/menu.mjs
+@@ -1,4 +1,4 @@
+-import('./menu.css');
++import './menu.css';
+ export default {
+   "breadcrumb": "pf-c-breadcrumb",
+   "divider": "pf-c-divider",
+diff --git a/node_modules/@patternfly/react-styles/css/components/MenuToggle/menu-toggle.mjs b/node_modules/@patternfly/react-styles/css/components/MenuToggle/menu-toggle.mjs
+index b896dac..f8fa79c 100644
+--- a/node_modules/@patternfly/react-styles/css/components/MenuToggle/menu-toggle.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/MenuToggle/menu-toggle.mjs
+@@ -1,4 +1,4 @@
+-import('./menu-toggle.css');
++import './menu-toggle.css';
+ export default {
+   "check": "pf-c-check",
+   "menuToggle": "pf-c-menu-toggle",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ModalBox/modal-box.mjs b/node_modules/@patternfly/react-styles/css/components/ModalBox/modal-box.mjs
+index 6283bb9..6112bb2 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ModalBox/modal-box.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ModalBox/modal-box.mjs
+@@ -1,4 +1,4 @@
+-import('./modal-box.css');
++import './modal-box.css';
+ export default {
+   "button": "pf-c-button",
+   "modalBox": "pf-c-modal-box",
+diff --git a/node_modules/@patternfly/react-styles/css/components/MultipleFileUpload/multiple-file-upload.mjs b/node_modules/@patternfly/react-styles/css/components/MultipleFileUpload/multiple-file-upload.mjs
+index 50b6b31..e8e1c70 100644
+--- a/node_modules/@patternfly/react-styles/css/components/MultipleFileUpload/multiple-file-upload.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/MultipleFileUpload/multiple-file-upload.mjs
+@@ -1,4 +1,4 @@
+-import('./multiple-file-upload.css');
++import './multiple-file-upload.css';
+ export default {
+   "modifiers": {
+     "horizontal": "pf-m-horizontal",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Nav/nav.mjs b/node_modules/@patternfly/react-styles/css/components/Nav/nav.mjs
+index 69405fd..bc67429 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Nav/nav.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Nav/nav.mjs
+@@ -1,4 +1,4 @@
+-import('./nav.css');
++import './nav.css';
+ export default {
+   "divider": "pf-c-divider",
+   "menu": "pf-c-menu",
+diff --git a/node_modules/@patternfly/react-styles/css/components/NotificationBadge/notification-badge.mjs b/node_modules/@patternfly/react-styles/css/components/NotificationBadge/notification-badge.mjs
+index dd66b19..0bd768c 100644
+--- a/node_modules/@patternfly/react-styles/css/components/NotificationBadge/notification-badge.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/NotificationBadge/notification-badge.mjs
+@@ -1,4 +1,4 @@
+-import('./notification-badge.css');
++import './notification-badge.css';
+ export default {
+   "iconAttentionBell": "pf-icon-attention-bell",
+   "iconBell": "pf-icon-bell",
+diff --git a/node_modules/@patternfly/react-styles/css/components/NotificationDrawer/notification-drawer.mjs b/node_modules/@patternfly/react-styles/css/components/NotificationDrawer/notification-drawer.mjs
+index 0d3e1fa..9ec4829 100644
+--- a/node_modules/@patternfly/react-styles/css/components/NotificationDrawer/notification-drawer.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/NotificationDrawer/notification-drawer.mjs
+@@ -1,4 +1,4 @@
+-import('./notification-drawer.css');
++import './notification-drawer.css';
+ export default {
+   "modifiers": {
+     "read": "pf-m-read",
+diff --git a/node_modules/@patternfly/react-styles/css/components/NumberInput/number-input.mjs b/node_modules/@patternfly/react-styles/css/components/NumberInput/number-input.mjs
+index 6fa496d..5bee713 100644
+--- a/node_modules/@patternfly/react-styles/css/components/NumberInput/number-input.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/NumberInput/number-input.mjs
+@@ -1,4 +1,4 @@
+-import('./number-input.css');
++import './number-input.css';
+ export default {
+   "formControl": "pf-c-form-control",
+   "inputGroup": "pf-c-input-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/OptionsMenu/options-menu.mjs b/node_modules/@patternfly/react-styles/css/components/OptionsMenu/options-menu.mjs
+index 833d1cd..8acb8b4 100644
+--- a/node_modules/@patternfly/react-styles/css/components/OptionsMenu/options-menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/OptionsMenu/options-menu.mjs
+@@ -1,4 +1,4 @@
+-import('./options-menu.css');
++import './options-menu.css';
+ export default {
+   "divider": "pf-c-divider",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/OverflowMenu/overflow-menu.mjs b/node_modules/@patternfly/react-styles/css/components/OverflowMenu/overflow-menu.mjs
+index 8b387a0..5dc2789 100644
+--- a/node_modules/@patternfly/react-styles/css/components/OverflowMenu/overflow-menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/OverflowMenu/overflow-menu.mjs
+@@ -1,4 +1,4 @@
+-import('./overflow-menu.css');
++import './overflow-menu.css';
+ export default {
+   "divider": "pf-c-divider",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Page/page.mjs b/node_modules/@patternfly/react-styles/css/components/Page/page.mjs
+index 30aaac9..ae9cacd 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Page/page.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Page/page.mjs
+@@ -1,4 +1,4 @@
+-import('./page.css');
++import './page.css';
+ export default {
+   "avatar": "pf-c-avatar",
+   "brand": "pf-c-brand",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Pagination/pagination.mjs b/node_modules/@patternfly/react-styles/css/components/Pagination/pagination.mjs
+index e50e581..bedeb84 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Pagination/pagination.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Pagination/pagination.mjs
+@@ -1,4 +1,4 @@
+-import('./pagination.css');
++import './pagination.css';
+ export default {
+   "button": "pf-c-button",
+   "formControl": "pf-c-form-control",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Panel/panel.mjs b/node_modules/@patternfly/react-styles/css/components/Panel/panel.mjs
+index e137298..af5b30e 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Panel/panel.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Panel/panel.mjs
+@@ -1,4 +1,4 @@
+-import('./panel.css');
++import './panel.css';
+ export default {
+   "modifiers": {
+     "bordered": "pf-m-bordered",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Popover/popover.mjs b/node_modules/@patternfly/react-styles/css/components/Popover/popover.mjs
+index b9647b8..31a6efa 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Popover/popover.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Popover/popover.mjs
+@@ -1,4 +1,4 @@
+-import('./popover.css');
++import './popover.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Popper/Popper.mjs b/node_modules/@patternfly/react-styles/css/components/Popper/Popper.mjs
+index da958e8..3cdb0a6 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Popper/Popper.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Popper/Popper.mjs
+@@ -1,4 +1,4 @@
+-import('./Popper.css');
++import './Popper.css';
+ export default {
+   "popover": "pf-c-popover"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/components/Progress/progress.mjs b/node_modules/@patternfly/react-styles/css/components/Progress/progress.mjs
+index e02d56c..8a42e89 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Progress/progress.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Progress/progress.mjs
+@@ -1,4 +1,4 @@
+-import('./progress.css');
++import './progress.css';
+ export default {
+   "modifiers": {
+     "sm": "pf-m-sm",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ProgressStepper/progress-stepper.mjs b/node_modules/@patternfly/react-styles/css/components/ProgressStepper/progress-stepper.mjs
+index 93f286f..cb154d7 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ProgressStepper/progress-stepper.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ProgressStepper/progress-stepper.mjs
+@@ -1,4 +1,4 @@
+-import('./progress-stepper.css');
++import './progress-stepper.css';
+ export default {
+   "faExclamationTriangle": "fa-exclamation-triangle",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Radio/radio.mjs b/node_modules/@patternfly/react-styles/css/components/Radio/radio.mjs
+index 3d6270d..70997ed 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Radio/radio.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Radio/radio.mjs
+@@ -1,4 +1,4 @@
+-import('./radio.css');
++import './radio.css';
+ export default {
+   "modifiers": {
+     "standalone": "pf-m-standalone",
+diff --git a/node_modules/@patternfly/react-styles/css/components/SearchInput/search-input.mjs b/node_modules/@patternfly/react-styles/css/components/SearchInput/search-input.mjs
+index af3ccaf..ea64677 100644
+--- a/node_modules/@patternfly/react-styles/css/components/SearchInput/search-input.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/SearchInput/search-input.mjs
+@@ -1,4 +1,4 @@
+-import('./search-input.css');
++import './search-input.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Select/select.mjs b/node_modules/@patternfly/react-styles/css/components/Select/select.mjs
+index 704ce0f..6ff006f 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Select/select.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Select/select.mjs
+@@ -1,4 +1,4 @@
+-import('./select.css');
++import './select.css';
+ export default {
+   "check": "pf-c-check",
+   "checkLabel": "pf-c-check__label",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Sidebar/sidebar.mjs b/node_modules/@patternfly/react-styles/css/components/Sidebar/sidebar.mjs
+index f2e53da..525ebbf 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Sidebar/sidebar.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Sidebar/sidebar.mjs
+@@ -1,4 +1,4 @@
+-import('./sidebar.css');
++import './sidebar.css';
+ export default {
+   "modifiers": {
+     "gutter": "pf-m-gutter",
+diff --git a/node_modules/@patternfly/react-styles/css/components/SimpleList/simple-list.mjs b/node_modules/@patternfly/react-styles/css/components/SimpleList/simple-list.mjs
+index 45faedc..bb8c3ac 100644
+--- a/node_modules/@patternfly/react-styles/css/components/SimpleList/simple-list.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/SimpleList/simple-list.mjs
+@@ -1,4 +1,4 @@
+-import('./simple-list.css');
++import './simple-list.css';
+ export default {
+   "modifiers": {
+     "current": "pf-m-current"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Skeleton/skeleton.mjs b/node_modules/@patternfly/react-styles/css/components/Skeleton/skeleton.mjs
+index 50fbf16..7e39851 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Skeleton/skeleton.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Skeleton/skeleton.mjs
+@@ -1,4 +1,4 @@
+-import('./skeleton.css');
++import './skeleton.css';
+ export default {
+   "modifiers": {
+     "circle": "pf-m-circle",
+diff --git a/node_modules/@patternfly/react-styles/css/components/SkipToContent/skip-to-content.mjs b/node_modules/@patternfly/react-styles/css/components/SkipToContent/skip-to-content.mjs
+index 2c6384f..776ff07 100644
+--- a/node_modules/@patternfly/react-styles/css/components/SkipToContent/skip-to-content.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/SkipToContent/skip-to-content.mjs
+@@ -1,4 +1,4 @@
+-import('./skip-to-content.css');
++import './skip-to-content.css';
+ export default {
+   "skipToContent": "pf-c-skip-to-content"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/components/Slider/slider.mjs b/node_modules/@patternfly/react-styles/css/components/Slider/slider.mjs
+index 726d4f3..d088854 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Slider/slider.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Slider/slider.mjs
+@@ -1,4 +1,4 @@
+-import('./slider.css');
++import './slider.css';
+ export default {
+   "formControl": "pf-c-form-control",
+   "inputGroup": "pf-c-input-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Spinner/spinner.mjs b/node_modules/@patternfly/react-styles/css/components/Spinner/spinner.mjs
+index e443da6..668bc3e 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Spinner/spinner.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Spinner/spinner.mjs
+@@ -1,4 +1,4 @@
+-import('./spinner.css');
++import './spinner.css';
+ export default {
+   "modifiers": {
+     "sm": "pf-m-sm",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Switch/switch.mjs b/node_modules/@patternfly/react-styles/css/components/Switch/switch.mjs
+index fec2d94..f181672 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Switch/switch.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Switch/switch.mjs
+@@ -1,4 +1,4 @@
+-import('./switch.css');
++import './switch.css';
+ export default {
+   "modifiers": {
+     "reverse": "pf-m-reverse",
+diff --git a/node_modules/@patternfly/react-styles/css/components/TabContent/tab-content.mjs b/node_modules/@patternfly/react-styles/css/components/TabContent/tab-content.mjs
+index f75dff0..86d1433 100644
+--- a/node_modules/@patternfly/react-styles/css/components/TabContent/tab-content.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/TabContent/tab-content.mjs
+@@ -1,4 +1,4 @@
+-import('./tab-content.css');
++import './tab-content.css';
+ export default {
+   "modifiers": {
+     "light_300": "pf-m-light-300",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Table/inline-edit.mjs b/node_modules/@patternfly/react-styles/css/components/Table/inline-edit.mjs
+index 0bb9679..628c4b1 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Table/inline-edit.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Table/inline-edit.mjs
+@@ -1,4 +1,4 @@
+-import('./inline-edit.css');
++import './inline-edit.css';
+ export default {
+   "modifiers": {
+     "editing": "pf-m-editing",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Table/table-grid.mjs b/node_modules/@patternfly/react-styles/css/components/Table/table-grid.mjs
+index 1de2e43..5ffbc8d 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Table/table-grid.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Table/table-grid.mjs
+@@ -1,4 +1,4 @@
+-import('./table-grid.css');
++import './table-grid.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Table/table-scrollable.mjs b/node_modules/@patternfly/react-styles/css/components/Table/table-scrollable.mjs
+index d7ba8a3..3446066 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Table/table-scrollable.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Table/table-scrollable.mjs
+@@ -1,4 +1,4 @@
+-import('./table-scrollable.css');
++import './table-scrollable.css';
+ export default {
+   "modifiers": {
+     "borderRight": "pf-m-border-right",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Table/table-tree-view.mjs b/node_modules/@patternfly/react-styles/css/components/Table/table-tree-view.mjs
+index 250cc44..7faca10 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Table/table-tree-view.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Table/table-tree-view.mjs
+@@ -1,4 +1,4 @@
+-import('./table-tree-view.css');
++import './table-tree-view.css';
+ export default {
+   "dropdown": "pf-c-dropdown",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Table/table.mjs b/node_modules/@patternfly/react-styles/css/components/Table/table.mjs
+index b1526ca..4b6e54a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Table/table.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Table/table.mjs
+@@ -1,4 +1,4 @@
+-import('./table.css');
++import './table.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Tabs/tabs.mjs b/node_modules/@patternfly/react-styles/css/components/Tabs/tabs.mjs
+index f4b4e70..82cf025 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Tabs/tabs.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Tabs/tabs.mjs
+@@ -1,4 +1,4 @@
+-import('./tabs.css');
++import './tabs.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/TextInputGroup/text-input-group.mjs b/node_modules/@patternfly/react-styles/css/components/TextInputGroup/text-input-group.mjs
+index 5d366a1..a38fa7d 100644
+--- a/node_modules/@patternfly/react-styles/css/components/TextInputGroup/text-input-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/TextInputGroup/text-input-group.mjs
+@@ -1,4 +1,4 @@
+-import('./text-input-group.css');
++import './text-input-group.css';
+ export default {
+   "button": "pf-c-button",
+   "chipGroup": "pf-c-chip-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Tile/tile.mjs b/node_modules/@patternfly/react-styles/css/components/Tile/tile.mjs
+index c706cc5..66f11b3 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Tile/tile.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Tile/tile.mjs
+@@ -1,4 +1,4 @@
+-import('./tile.css');
++import './tile.css';
+ export default {
+   "modifiers": {
+     "selected": "pf-m-selected",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Timestamp/timestamp.mjs b/node_modules/@patternfly/react-styles/css/components/Timestamp/timestamp.mjs
+index 30090d1..469fb20 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Timestamp/timestamp.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Timestamp/timestamp.mjs
+@@ -1,4 +1,4 @@
+-import('./timestamp.css');
++import './timestamp.css';
+ export default {
+   "modifiers": {
+     "helpText": "pf-m-help-text"
+diff --git a/node_modules/@patternfly/react-styles/css/components/Title/title.mjs b/node_modules/@patternfly/react-styles/css/components/Title/title.mjs
+index 31a1238..c298ab1 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Title/title.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Title/title.mjs
+@@ -1,4 +1,4 @@
+-import('./title.css');
++import './title.css';
+ export default {
+   "modifiers": {
+     "4xl": "pf-m-4xl",
+diff --git a/node_modules/@patternfly/react-styles/css/components/ToggleGroup/toggle-group.mjs b/node_modules/@patternfly/react-styles/css/components/ToggleGroup/toggle-group.mjs
+index 7de3c56..bd282ee 100644
+--- a/node_modules/@patternfly/react-styles/css/components/ToggleGroup/toggle-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/ToggleGroup/toggle-group.mjs
+@@ -1,4 +1,4 @@
+-import('./toggle-group.css');
++import './toggle-group.css';
+ export default {
+   "modifiers": {
+     "compact": "pf-m-compact",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Toolbar/toolbar.mjs b/node_modules/@patternfly/react-styles/css/components/Toolbar/toolbar.mjs
+index 759aff7..3ae471a 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Toolbar/toolbar.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Toolbar/toolbar.mjs
+@@ -1,4 +1,4 @@
+-import('./toolbar.css');
++import './toolbar.css';
+ export default {
+   "button": "pf-c-button",
+   "chipGroup": "pf-c-chip-group",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Tooltip/tooltip.mjs b/node_modules/@patternfly/react-styles/css/components/Tooltip/tooltip.mjs
+index 56a2775..6a4bd65 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Tooltip/tooltip.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Tooltip/tooltip.mjs
+@@ -1,4 +1,4 @@
+-import('./tooltip.css');
++import './tooltip.css';
+ export default {
+   "modifiers": {
+     "top": "pf-m-top",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Topology/topology-components.mjs b/node_modules/@patternfly/react-styles/css/components/Topology/topology-components.mjs
+index e4bc3da..de5a717 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Topology/topology-components.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Topology/topology-components.mjs
+@@ -1,4 +1,4 @@
+-import('./topology-components.css');
++import './topology-components.css';
+ export default {
+   "modifiers": {
+     "hover": "pf-m-hover",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Topology/topology-controlbar.mjs b/node_modules/@patternfly/react-styles/css/components/Topology/topology-controlbar.mjs
+index 609eff0..71095e8 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Topology/topology-controlbar.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Topology/topology-controlbar.mjs
+@@ -1,4 +1,4 @@
+-import('./topology-controlbar.css');
++import './topology-controlbar.css';
+ export default {
+   "button": "pf-c-button",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Topology/topology-pipelines.mjs b/node_modules/@patternfly/react-styles/css/components/Topology/topology-pipelines.mjs
+index 7b35a5a..924aec6 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Topology/topology-pipelines.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Topology/topology-pipelines.mjs
+@@ -1,4 +1,4 @@
+-import('./topology-pipelines.css');
++import './topology-pipelines.css';
+ export default {
+   "modifiers": {
+     "danger": "pf-m-danger",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Topology/topology-side-bar.mjs b/node_modules/@patternfly/react-styles/css/components/Topology/topology-side-bar.mjs
+index ba0bdcd..b26fb76 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Topology/topology-side-bar.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Topology/topology-side-bar.mjs
+@@ -1,4 +1,4 @@
+-import('./topology-side-bar.css');
++import './topology-side-bar.css';
+ export default {
+   "button": "pf-c-button",
+   "in": "in",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Topology/topology-view.mjs b/node_modules/@patternfly/react-styles/css/components/Topology/topology-view.mjs
+index a26ca64..831f4cf 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Topology/topology-view.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Topology/topology-view.mjs
+@@ -1,4 +1,4 @@
+-import('./topology-view.css');
++import './topology-view.css';
+ export default {
+   "topologyContainer": "pf-topology-container",
+   "topologyContent": "pf-topology-content"
+diff --git a/node_modules/@patternfly/react-styles/css/components/TreeView/tree-view.mjs b/node_modules/@patternfly/react-styles/css/components/TreeView/tree-view.mjs
+index 8bc6e73..2e7b4ef 100644
+--- a/node_modules/@patternfly/react-styles/css/components/TreeView/tree-view.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/TreeView/tree-view.mjs
+@@ -1,4 +1,4 @@
+-import('./tree-view.css');
++import './tree-view.css';
+ export default {
+   "badge": "pf-c-badge",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/components/Truncate/truncate.mjs b/node_modules/@patternfly/react-styles/css/components/Truncate/truncate.mjs
+index e9ae9e9..d837c52 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Truncate/truncate.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Truncate/truncate.mjs
+@@ -1,4 +1,4 @@
+-import('./truncate.css');
++import './truncate.css';
+ export default {
+   "truncate": "pf-c-truncate",
+   "truncateEnd": "pf-c-truncate__end",
+diff --git a/node_modules/@patternfly/react-styles/css/components/Wizard/wizard.mjs b/node_modules/@patternfly/react-styles/css/components/Wizard/wizard.mjs
+index 9180772..c73fc3b 100644
+--- a/node_modules/@patternfly/react-styles/css/components/Wizard/wizard.mjs
++++ b/node_modules/@patternfly/react-styles/css/components/Wizard/wizard.mjs
+@@ -1,4 +1,4 @@
+-import('./wizard.css');
++import './wizard.css';
+ export default {
+   "button": "pf-c-button",
+   "card": "pf-c-card",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/AppLauncher/examples/application-launcher.mjs b/node_modules/@patternfly/react-styles/css/docs/components/AppLauncher/examples/application-launcher.mjs
+index 91f28f7..c35d030 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/AppLauncher/examples/application-launcher.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/AppLauncher/examples/application-launcher.mjs
+@@ -1,2 +1,2 @@
+-import('./application-launcher.css');
++import './application-launcher.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Avatar/examples/Avatar.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Avatar/examples/Avatar.mjs
+index 3a16ced..f4999d2 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Avatar/examples/Avatar.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Avatar/examples/Avatar.mjs
+@@ -1,2 +1,2 @@
+-import('./Avatar.css');
++import './Avatar.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/BackToTop/examples/BackToTop.mjs b/node_modules/@patternfly/react-styles/css/docs/components/BackToTop/examples/BackToTop.mjs
+index a4de116..81aacf3 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/BackToTop/examples/BackToTop.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/BackToTop/examples/BackToTop.mjs
+@@ -1,2 +1,2 @@
+-import('./BackToTop.css');
++import './BackToTop.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Breadcrumb/examples/Breadcrumb.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Breadcrumb/examples/Breadcrumb.mjs
+index a314f02..4acf16a 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Breadcrumb/examples/Breadcrumb.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Breadcrumb/examples/Breadcrumb.mjs
+@@ -1,2 +1,2 @@
+-import('./Breadcrumb.css');
++import './Breadcrumb.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Button/examples/Button.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Button/examples/Button.mjs
+index 2123662..c8f7702 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Button/examples/Button.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Button/examples/Button.mjs
+@@ -1,4 +1,4 @@
+-import('./Button.css');
++import './Button.css';
+ export default {
+   "button": "pf-c-button",
+   "wsCoreCButton": "ws-core-c-button"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Card/examples/Card.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Card/examples/Card.mjs
+index 67afd24..034d52c 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Card/examples/Card.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Card/examples/Card.mjs
+@@ -1,4 +1,4 @@
+-import('./Card.css');
++import './Card.css';
+ export default {
+   "wsPreviewHtml": "ws-preview-html"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/ContextSelector/examples/context-selector.mjs b/node_modules/@patternfly/react-styles/css/docs/components/ContextSelector/examples/context-selector.mjs
+index 4cd1bfa..0303ee8 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/ContextSelector/examples/context-selector.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/ContextSelector/examples/context-selector.mjs
+@@ -1,2 +1,2 @@
+-import('./context-selector.css');
++import './context-selector.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/DatePicker/examples/DatePicker.mjs b/node_modules/@patternfly/react-styles/css/docs/components/DatePicker/examples/DatePicker.mjs
+index 6bb4bd2..82b0af1 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/DatePicker/examples/DatePicker.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/DatePicker/examples/DatePicker.mjs
+@@ -1,2 +1,2 @@
+-import('./DatePicker.css');
++import './DatePicker.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Divider/examples/Divider.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Divider/examples/Divider.mjs
+index 01d18e0..ad9fefa 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Divider/examples/Divider.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Divider/examples/Divider.mjs
+@@ -1,4 +1,4 @@
+-import('./Divider.css');
++import './Divider.css';
+ export default {
+   "wsPreviewHtml": "ws-preview-html"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/DragDrop/examples/DragDrop.mjs b/node_modules/@patternfly/react-styles/css/docs/components/DragDrop/examples/DragDrop.mjs
+index a80daac..bab48d9 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/DragDrop/examples/DragDrop.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/DragDrop/examples/DragDrop.mjs
+@@ -1,4 +1,4 @@
+-import('./DragDrop.css');
++import './DragDrop.css';
+ export default {
+   "draggable": "pf-c-draggable",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Drawer/examples/Drawer.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Drawer/examples/Drawer.mjs
+index af55816..ee260c3 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Drawer/examples/Drawer.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Drawer/examples/Drawer.mjs
+@@ -1,4 +1,4 @@
+-import('./Drawer.css');
++import './Drawer.css';
+ export default {
+   "wsPreviewHtml": "ws-preview-html"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Dropdown/examples/Dropdown.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Dropdown/examples/Dropdown.mjs
+index 932c404..dc9a2fc 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Dropdown/examples/Dropdown.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Dropdown/examples/Dropdown.mjs
+@@ -1,4 +1,4 @@
+-import('./Dropdown.css');
++import './Dropdown.css';
+ export default {
+   "dropdown": "pf-c-dropdown",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/FormControl/examples/FormControl.mjs b/node_modules/@patternfly/react-styles/css/docs/components/FormControl/examples/FormControl.mjs
+index 6dbcfd5..d5201eb 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/FormControl/examples/FormControl.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/FormControl/examples/FormControl.mjs
+@@ -1,2 +1,2 @@
+-import('./FormControl.css');
++import './FormControl.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Label/examples/Label.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Label/examples/Label.mjs
+index d6af04b..b08e0f5 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Label/examples/Label.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Label/examples/Label.mjs
+@@ -1,4 +1,4 @@
+-import('./Label.css');
++import './Label.css';
+ export default {
+   "label": "pf-c-label",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/LogViewer/examples/LogViewer.mjs b/node_modules/@patternfly/react-styles/css/docs/components/LogViewer/examples/LogViewer.mjs
+index 40fdb40..70f09c2 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/LogViewer/examples/LogViewer.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/LogViewer/examples/LogViewer.mjs
+@@ -1,4 +1,4 @@
+-import('./LogViewer.css');
++import './LogViewer.css';
+ export default {
+   "popover": "pf-c-popover",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Menu/examples/Menu.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Menu/examples/Menu.mjs
+index f56afee..4b503d6 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Menu/examples/Menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Menu/examples/Menu.mjs
+@@ -1,2 +1,2 @@
+-import('./Menu.css');
++import './Menu.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/MenuToggle/examples/MenuToggle.mjs b/node_modules/@patternfly/react-styles/css/docs/components/MenuToggle/examples/MenuToggle.mjs
+index 27d2163..5243218 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/MenuToggle/examples/MenuToggle.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/MenuToggle/examples/MenuToggle.mjs
+@@ -1,4 +1,4 @@
+-import('./MenuToggle.css');
++import './MenuToggle.css';
+ export default {
+   "wsPreviewHtml": "ws-preview-html"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/ModalBox/examples/ModalBox.mjs b/node_modules/@patternfly/react-styles/css/docs/components/ModalBox/examples/ModalBox.mjs
+index 0d5760b..8a25917 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/ModalBox/examples/ModalBox.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/ModalBox/examples/ModalBox.mjs
+@@ -1,4 +1,4 @@
+-import('./ModalBox.css');
++import './ModalBox.css';
+ export default {
+   "modalBox": "pf-c-modal-box",
+   "wsCoreCModal": "ws-core-c-modal",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Nav/examples/Navigation.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Nav/examples/Navigation.mjs
+index 31488a5..400eee3 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Nav/examples/Navigation.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Nav/examples/Navigation.mjs
+@@ -1,4 +1,4 @@
+-import('./Navigation.css');
++import './Navigation.css';
+ export default {
+   "menu": "pf-c-menu",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/NotificationBadge/examples/NotificationBadge.mjs b/node_modules/@patternfly/react-styles/css/docs/components/NotificationBadge/examples/NotificationBadge.mjs
+index f2c780a..8165146 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/NotificationBadge/examples/NotificationBadge.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/NotificationBadge/examples/NotificationBadge.mjs
+@@ -1,4 +1,4 @@
+-import('./NotificationBadge.css');
++import './NotificationBadge.css';
+ export default {
+   "wsCoreCNotificationBadge": "ws-core-c-notification-badge"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/OptionsMenu/examples/options-menu.mjs b/node_modules/@patternfly/react-styles/css/docs/components/OptionsMenu/examples/options-menu.mjs
+index e7679fc..0c510fd 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/OptionsMenu/examples/options-menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/OptionsMenu/examples/options-menu.mjs
+@@ -1,2 +1,2 @@
+-import('./options-menu.css');
++import './options-menu.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/OverflowMenu/examples/overflow-menu.mjs b/node_modules/@patternfly/react-styles/css/docs/components/OverflowMenu/examples/overflow-menu.mjs
+index aae4a01..d87c1dd 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/OverflowMenu/examples/overflow-menu.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/OverflowMenu/examples/overflow-menu.mjs
+@@ -1,4 +1,4 @@
+-import('./overflow-menu.css');
++import './overflow-menu.css';
+ export default {
+   "overflowMenuGroup": "pf-c-overflow-menu__group",
+   "overflowMenuItem": "pf-c-overflow-menu__item"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Pagination/examples/Pagination.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Pagination/examples/Pagination.mjs
+index 04eedcb..fc4c821 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Pagination/examples/Pagination.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Pagination/examples/Pagination.mjs
+@@ -1,2 +1,2 @@
+-import('./Pagination.css');
++import './Pagination.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Popover/examples/Popover.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Popover/examples/Popover.mjs
+index e025659..57f2e69 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Popover/examples/Popover.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Popover/examples/Popover.mjs
+@@ -1,4 +1,4 @@
+-import('./Popover.css');
++import './Popover.css';
+ export default {
+   "popover": "pf-c-popover",
+   "wsCoreCPopover": "ws-core-c-popover",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/SearchInput/examples/SearchInput.mjs b/node_modules/@patternfly/react-styles/css/docs/components/SearchInput/examples/SearchInput.mjs
+index 09f86da..0bac5b3 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/SearchInput/examples/SearchInput.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/SearchInput/examples/SearchInput.mjs
+@@ -1,2 +1,2 @@
+-import('./SearchInput.css');
++import './SearchInput.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Select/examples/Select.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Select/examples/Select.mjs
+index c9107fd..43bd878 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Select/examples/Select.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Select/examples/Select.mjs
+@@ -1,2 +1,2 @@
+-import('./Select.css');
++import './Select.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Sidebar/examples/Sidebar.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Sidebar/examples/Sidebar.mjs
+index 52309e0..3bfb23e 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Sidebar/examples/Sidebar.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Sidebar/examples/Sidebar.mjs
+@@ -1,4 +1,4 @@
+-import('./Sidebar.css');
++import './Sidebar.css';
+ export default {
+   "wsCoreCSidebar": "ws-core-c-sidebar",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Skeleton/examples/Skeleton.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Skeleton/examples/Skeleton.mjs
+index 575160a..63abb17 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Skeleton/examples/Skeleton.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Skeleton/examples/Skeleton.mjs
+@@ -1,4 +1,4 @@
+-import('./Skeleton.css');
++import './Skeleton.css';
+ export default {
+   "skeleton": "pf-c-skeleton",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Table/examples/Table.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Table/examples/Table.mjs
+index 50e49cb..306e22b 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Table/examples/Table.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Table/examples/Table.mjs
+@@ -1,4 +1,4 @@
+-import('./Table.css');
++import './Table.css';
+ export default {
+   "tooltip": "pf-c-tooltip",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Tabs/examples/Tabs.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Tabs/examples/Tabs.mjs
+index ab68d9a..e7eca80 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Tabs/examples/Tabs.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Tabs/examples/Tabs.mjs
+@@ -1,4 +1,4 @@
+-import('./Tabs.css');
++import './Tabs.css';
+ export default {
+   "tabsExampleBlock": "tabs-example-block",
+   "tabsExampleBlockMColorSchemeLight_300": "tabs-example-block--m-color-scheme--light-300"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/TextInputGroup/examples/TextInputGroup.mjs b/node_modules/@patternfly/react-styles/css/docs/components/TextInputGroup/examples/TextInputGroup.mjs
+index 6be780a..8671ecb 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/TextInputGroup/examples/TextInputGroup.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/TextInputGroup/examples/TextInputGroup.mjs
+@@ -1,4 +1,4 @@
+-import('./TextInputGroup.css');
++import './TextInputGroup.css';
+ export default {
+   "menu": "pf-c-menu",
+   "panel": "pf-c-panel",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Tile/examples/Tile.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Tile/examples/Tile.mjs
+index b1def69..a25df5e 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Tile/examples/Tile.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Tile/examples/Tile.mjs
+@@ -1,4 +1,4 @@
+-import('./Tile.css');
++import './Tile.css';
+ export default {
+   "tile": "pf-c-tile",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/ToggleGroup/examples/toggle-group.mjs b/node_modules/@patternfly/react-styles/css/docs/components/ToggleGroup/examples/toggle-group.mjs
+index d446bbc..85d0fc2 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/ToggleGroup/examples/toggle-group.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/ToggleGroup/examples/toggle-group.mjs
+@@ -1,4 +1,4 @@
+-import('./toggle-group.css');
++import './toggle-group.css';
+ export default {
+   "wsPreviewHtml": "ws-preview-html"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Toolbar/examples/Toolbar.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Toolbar/examples/Toolbar.mjs
+index 21f3f38..792e70d 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Toolbar/examples/Toolbar.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Toolbar/examples/Toolbar.mjs
+@@ -1,4 +1,4 @@
+-import('./Toolbar.css');
++import './Toolbar.css';
+ export default {
+   "toolbar": "pf-c-toolbar",
+   "toolbarGroup": "pf-c-toolbar__group",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Truncate/examples/Truncate.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Truncate/examples/Truncate.mjs
+index 83011a3..ccda1d6 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Truncate/examples/Truncate.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Truncate/examples/Truncate.mjs
+@@ -1,4 +1,4 @@
+-import('./Truncate.css');
++import './Truncate.css';
+ export default {
+   "truncateExample": "pf-c-truncate--example"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/components/Wizard/examples/Wizard.mjs b/node_modules/@patternfly/react-styles/css/docs/components/Wizard/examples/Wizard.mjs
+index d271250..3e3431e 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/components/Wizard/examples/Wizard.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/components/Wizard/examples/Wizard.mjs
+@@ -1,4 +1,4 @@
+-import('./Wizard.css');
++import './Wizard.css';
+ export default {
+   "wsCoreCWizard": "ws-core-c-wizard",
+   "wsPreviewHtml": "ws-preview-html"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/demos/Card/examples/Card.mjs b/node_modules/@patternfly/react-styles/css/docs/demos/Card/examples/Card.mjs
+index 27f47a7..32591e0 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/demos/Card/examples/Card.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/demos/Card/examples/Card.mjs
+@@ -1,4 +1,4 @@
+-import('./Card.css');
++import './Card.css';
+ export default {
+   "popover": "pf-c-popover",
+   "popoverParent": "popover-parent",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/demos/Table/examples/Table.mjs b/node_modules/@patternfly/react-styles/css/docs/demos/Table/examples/Table.mjs
+index 1f1977d..6cf82ab 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/demos/Table/examples/Table.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/demos/Table/examples/Table.mjs
+@@ -1,4 +1,4 @@
+-import('./Table.css');
++import './Table.css';
+ export default {
+   "tableDemoIcon": "table-demo-icon"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/demos/Toolbar/examples/Toolbar.mjs b/node_modules/@patternfly/react-styles/css/docs/demos/Toolbar/examples/Toolbar.mjs
+index e6f5817..18e7f22 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/demos/Toolbar/examples/Toolbar.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/demos/Toolbar/examples/Toolbar.mjs
+@@ -1,2 +1,2 @@
+-import('./Toolbar.css');
++import './Toolbar.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Bullseye/examples/Bullseye.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Bullseye/examples/Bullseye.mjs
+index cf38af3..2eebf1e 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Bullseye/examples/Bullseye.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Bullseye/examples/Bullseye.mjs
+@@ -1,4 +1,4 @@
+-import('./Bullseye.css');
++import './Bullseye.css';
+ export default {
+   "bullseye": "pf-l-bullseye",
+   "bullseyeItem": "pf-l-bullseye__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Flex/examples/Flex.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Flex/examples/Flex.mjs
+index 0f0c782..fc0adf6 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Flex/examples/Flex.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Flex/examples/Flex.mjs
+@@ -1,4 +1,4 @@
+-import('./Flex.css');
++import './Flex.css';
+ export default {
+   "flex": "pf-l-flex",
+   "flexItem": "pf-l-flex__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Gallery/examples/Gallery.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Gallery/examples/Gallery.mjs
+index f703c5e..cfd6b74 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Gallery/examples/Gallery.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Gallery/examples/Gallery.mjs
+@@ -1,4 +1,4 @@
+-import('./Gallery.css');
++import './Gallery.css';
+ export default {
+   "gallery": "pf-l-gallery",
+   "galleryItem": "pf-l-gallery__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Grid/examples/Grid.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Grid/examples/Grid.mjs
+index 37db011..d419753 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Grid/examples/Grid.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Grid/examples/Grid.mjs
+@@ -1,4 +1,4 @@
+-import('./Grid.css');
++import './Grid.css';
+ export default {
+   "gridItem": "pf-l-grid__item",
+   "wsCoreLGrid": "ws-core-l-grid"
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Level/examples/Level.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Level/examples/Level.mjs
+index ac14a5a..73d6c10 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Level/examples/Level.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Level/examples/Level.mjs
+@@ -1,4 +1,4 @@
+-import('./Level.css');
++import './Level.css';
+ export default {
+   "level": "pf-l-level",
+   "levelItem": "pf-l-level__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Split/examples/Split.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Split/examples/Split.mjs
+index b964225..cf4945d 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Split/examples/Split.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Split/examples/Split.mjs
+@@ -1,4 +1,4 @@
+-import('./Split.css');
++import './Split.css';
+ export default {
+   "split": "pf-l-split",
+   "splitItem": "pf-l-split__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/layouts/Stack/examples/Stack.mjs b/node_modules/@patternfly/react-styles/css/docs/layouts/Stack/examples/Stack.mjs
+index 6955043..c3af650 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/layouts/Stack/examples/Stack.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/layouts/Stack/examples/Stack.mjs
+@@ -1,4 +1,4 @@
+-import('./Stack.css');
++import './Stack.css';
+ export default {
+   "stack": "pf-l-stack",
+   "stackItem": "pf-l-stack__item",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Alignment/examples/Alignment.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Alignment/examples/Alignment.mjs
+index 2a3f26a..dc93995 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Alignment/examples/Alignment.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Alignment/examples/Alignment.mjs
+@@ -1,4 +1,4 @@
+-import('./Alignment.css');
++import './Alignment.css';
+ export default {
+   "textAlignCenter": "pf-u-text-align-center",
+   "textAlignJustify": "pf-u-text-align-justify",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/BoxShadow/examples/box-shadow.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/BoxShadow/examples/box-shadow.mjs
+index ed1bb49..97a45ad 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/BoxShadow/examples/box-shadow.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/BoxShadow/examples/box-shadow.mjs
+@@ -1,4 +1,4 @@
+-import('./box-shadow.css');
++import './box-shadow.css';
+ export default {
+   "wsCoreUBoxShadow": "ws-core-u-box-shadow"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Display/examples/Display.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Display/examples/Display.mjs
+index ee9a1ff..d1a6013 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Display/examples/Display.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Display/examples/Display.mjs
+@@ -1,4 +1,4 @@
+-import('./Display.css');
++import './Display.css';
+ export default {
+   "displayBlock": "pf-u-display-block",
+   "displayFlex": "pf-u-display-flex",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Flex/examples/Flex.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Flex/examples/Flex.mjs
+index dab2b76..95ad2e8 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Flex/examples/Flex.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Flex/examples/Flex.mjs
+@@ -1,4 +1,4 @@
+-import('./Flex.css');
++import './Flex.css';
+ export default {
+   "displayFlex": "pf-u-display-flex",
+   "displayInlineFlex": "pf-u-display-inline-flex",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Float/examples/Float.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Float/examples/Float.mjs
+index 9f8f1a4..91e254a 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Float/examples/Float.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Float/examples/Float.mjs
+@@ -1,4 +1,4 @@
+-import('./Float.css');
++import './Float.css';
+ export default {
+   "floatLeft": "pf-u-float-left",
+   "floatRight": "pf-u-float-right",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Sizing/examples/Sizing.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Sizing/examples/Sizing.mjs
+index 66a7593..8cd9b3c 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Sizing/examples/Sizing.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Sizing/examples/Sizing.mjs
+@@ -1,4 +1,4 @@
+-import('./Sizing.css');
++import './Sizing.css';
+ export default {
+   "maxHeight": "pf-u-max-height",
+   "maxWidth": "pf-u-max-width",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Spacing/examples/Spacing.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Spacing/examples/Spacing.mjs
+index 45516ad..339b532 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Spacing/examples/Spacing.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Spacing/examples/Spacing.mjs
+@@ -1,4 +1,4 @@
+-import('./Spacing.css');
++import './Spacing.css';
+ export default {
+   "displayFlex": "pf-u-display-flex",
+   "wsCoreUSpacing": "ws-core-u-spacing",
+diff --git a/node_modules/@patternfly/react-styles/css/docs/utilities/Text/examples/Text.mjs b/node_modules/@patternfly/react-styles/css/docs/utilities/Text/examples/Text.mjs
+index 1cf8179..a55724f 100644
+--- a/node_modules/@patternfly/react-styles/css/docs/utilities/Text/examples/Text.mjs
++++ b/node_modules/@patternfly/react-styles/css/docs/utilities/Text/examples/Text.mjs
+@@ -1,2 +1,2 @@
+-import('./Text.css');
++import './Text.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Bullseye/bullseye.mjs b/node_modules/@patternfly/react-styles/css/layouts/Bullseye/bullseye.mjs
+index 64c85d5..a322c43 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Bullseye/bullseye.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Bullseye/bullseye.mjs
+@@ -1,4 +1,4 @@
+-import('./bullseye.css');
++import './bullseye.css';
+ export default {
+   "bullseye": "pf-l-bullseye"
+ };
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Flex/flex.mjs b/node_modules/@patternfly/react-styles/css/layouts/Flex/flex.mjs
+index 60f161c..519434f 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Flex/flex.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Flex/flex.mjs
+@@ -1,4 +1,4 @@
+-import('./flex.css');
++import './flex.css';
+ export default {
+   "flex": "pf-l-flex",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Gallery/gallery.mjs b/node_modules/@patternfly/react-styles/css/layouts/Gallery/gallery.mjs
+index 4834650..5ae29ad 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Gallery/gallery.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Gallery/gallery.mjs
+@@ -1,4 +1,4 @@
+-import('./gallery.css');
++import './gallery.css';
+ export default {
+   "gallery": "pf-l-gallery",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Grid/grid.mjs b/node_modules/@patternfly/react-styles/css/layouts/Grid/grid.mjs
+index e41b133..5bc7530 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Grid/grid.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Grid/grid.mjs
+@@ -1,4 +1,4 @@
+-import('./grid.css');
++import './grid.css';
+ export default {
+   "grid": "pf-l-grid",
+   "gridItem": "pf-l-grid__item",
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Level/level.mjs b/node_modules/@patternfly/react-styles/css/layouts/Level/level.mjs
+index f0b4c39..4787262 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Level/level.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Level/level.mjs
+@@ -1,4 +1,4 @@
+-import('./level.css');
++import './level.css';
+ export default {
+   "level": "pf-l-level",
+   "modifiers": {
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Split/split.mjs b/node_modules/@patternfly/react-styles/css/layouts/Split/split.mjs
+index cd1d915..131661a 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Split/split.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Split/split.mjs
+@@ -1,4 +1,4 @@
+-import('./split.css');
++import './split.css';
+ export default {
+   "modifiers": {
+     "wrap": "pf-m-wrap",
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Stack/stack.mjs b/node_modules/@patternfly/react-styles/css/layouts/Stack/stack.mjs
+index 3ce2c6f..6050929 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Stack/stack.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Stack/stack.mjs
+@@ -1,4 +1,4 @@
+-import('./stack.css');
++import './stack.css';
+ export default {
+   "modifiers": {
+     "fill": "pf-m-fill",
+diff --git a/node_modules/@patternfly/react-styles/css/layouts/Toolbar/toolbar.mjs b/node_modules/@patternfly/react-styles/css/layouts/Toolbar/toolbar.mjs
+index d9a3368..da2486b 100644
+--- a/node_modules/@patternfly/react-styles/css/layouts/Toolbar/toolbar.mjs
++++ b/node_modules/@patternfly/react-styles/css/layouts/Toolbar/toolbar.mjs
+@@ -1,4 +1,4 @@
+-import('./toolbar.css');
++import './toolbar.css';
+ export default {
+   "toolbar": "pf-l-toolbar",
+   "toolbarGroup": "pf-l-toolbar__group",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Accessibility/accessibility.mjs b/node_modules/@patternfly/react-styles/css/utilities/Accessibility/accessibility.mjs
+index 16791e7..909c8ee 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Accessibility/accessibility.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Accessibility/accessibility.mjs
+@@ -1,4 +1,4 @@
+-import('./accessibility.css');
++import './accessibility.css';
+ export default {
+   "hidden": "pf-u-hidden",
+   "hiddenOnLg": "pf-u-hidden-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Alignment/alignment.mjs b/node_modules/@patternfly/react-styles/css/utilities/Alignment/alignment.mjs
+index 984b3b9..d5392fd 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Alignment/alignment.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Alignment/alignment.mjs
+@@ -1,4 +1,4 @@
+-import('./alignment.css');
++import './alignment.css';
+ export default {
+   "textAlignCenter": "pf-u-text-align-center",
+   "textAlignCenterOnLg": "pf-u-text-align-center-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/BackgroundColor.mjs b/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/BackgroundColor.mjs
+index e8a83ec..e703bff 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/BackgroundColor.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/BackgroundColor.mjs
+@@ -1,4 +1,4 @@
+-import('./BackgroundColor.css');
++import './BackgroundColor.css';
+ export default {
+   "backgroundColorActiveColor_100": "pf-u-background-color-active-color-100",
+   "backgroundColorActiveColor_100OnLg": "pf-u-background-color-active-color-100-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/themes/dark/BackgroundColor.mjs b/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/themes/dark/BackgroundColor.mjs
+index 1027ab4..4d31d6b 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/themes/dark/BackgroundColor.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/BackgroundColor/themes/dark/BackgroundColor.mjs
+@@ -1,2 +1,2 @@
+-import('./BackgroundColor.css');
++import './BackgroundColor.css';
+ export default {};
+\ No newline at end of file
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/BoxShadow/box-shadow.mjs b/node_modules/@patternfly/react-styles/css/utilities/BoxShadow/box-shadow.mjs
+index 70ffd56..e0d4d82 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/BoxShadow/box-shadow.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/BoxShadow/box-shadow.mjs
+@@ -1,4 +1,4 @@
+-import('./box-shadow.css');
++import './box-shadow.css';
+ export default {
+   "boxShadowInset": "pf-u-box-shadow-inset",
+   "boxShadowLg": "pf-u-box-shadow-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Display/display.mjs b/node_modules/@patternfly/react-styles/css/utilities/Display/display.mjs
+index d59b05a..4619043 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Display/display.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Display/display.mjs
+@@ -1,4 +1,4 @@
+-import('./display.css');
++import './display.css';
+ export default {
+   "displayBlock": "pf-u-display-block",
+   "displayBlockOnLg": "pf-u-display-block-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Flex/flex.mjs b/node_modules/@patternfly/react-styles/css/utilities/Flex/flex.mjs
+index 8383cc4..9883836 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Flex/flex.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Flex/flex.mjs
+@@ -1,4 +1,4 @@
+-import('./flex.css');
++import './flex.css';
+ export default {
+   "alignContentCenter": "pf-u-align-content-center",
+   "alignContentCenterOnLg": "pf-u-align-content-center-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Float/float.mjs b/node_modules/@patternfly/react-styles/css/utilities/Float/float.mjs
+index ee7b571..94fa7dd 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Float/float.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Float/float.mjs
+@@ -1,4 +1,4 @@
+-import('./float.css');
++import './float.css';
+ export default {
+   "floatLeft": "pf-u-float-left",
+   "floatLeftOnLg": "pf-u-float-left-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Sizing/sizing.mjs b/node_modules/@patternfly/react-styles/css/utilities/Sizing/sizing.mjs
+index ed9128a..1a624bc 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Sizing/sizing.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Sizing/sizing.mjs
+@@ -1,4 +1,4 @@
+-import('./sizing.css');
++import './sizing.css';
+ export default {
+   "hAuto": "pf-u-h-auto",
+   "hAutoOnLg": "pf-u-h-auto-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Spacing/spacing.mjs b/node_modules/@patternfly/react-styles/css/utilities/Spacing/spacing.mjs
+index e34c1a7..eb8f6a8 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Spacing/spacing.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Spacing/spacing.mjs
+@@ -1,4 +1,4 @@
+-import('./spacing.css');
++import './spacing.css';
+ export default {
+   "mAuto": "pf-u-m-auto",
+   "mAutoOnLg": "pf-u-m-auto-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Text/text.mjs b/node_modules/@patternfly/react-styles/css/utilities/Text/text.mjs
+index 5b03442..65640c3 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Text/text.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Text/text.mjs
+@@ -1,4 +1,4 @@
+-import('./text.css');
++import './text.css';
+ export default {
+   "activeColor_100": "pf-u-active-color-100",
+   "activeColor_100OnLg": "pf-u-active-color-100-on-lg",
+diff --git a/node_modules/@patternfly/react-styles/css/utilities/Text/themes/dark/text.mjs b/node_modules/@patternfly/react-styles/css/utilities/Text/themes/dark/text.mjs
+index 72173d0..d4d32dc 100644
+--- a/node_modules/@patternfly/react-styles/css/utilities/Text/themes/dark/text.mjs
++++ b/node_modules/@patternfly/react-styles/css/utilities/Text/themes/dark/text.mjs
+@@ -1,2 +1,2 @@
+-import('./text.css');
++import './text.css';
+ export default {};
+\ No newline at end of file
